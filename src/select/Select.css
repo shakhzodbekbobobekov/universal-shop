@@ -1,0 +1,15 @@
+.select {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+    width: 15%;
+    font-size: 1.2rem;
+}
+
+ option{
+    color: #333;
+    font-size: 1.2rem;
+  
+ }
