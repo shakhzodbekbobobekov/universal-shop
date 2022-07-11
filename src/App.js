@@ -1,5 +1,9 @@
 //styles
-import "./App.css";
+import Home from "./home/Home";
+import Recipe from "./recipe/Recipe";
+import Navbar from "./components/Navbar";
+import Create from "./create/Create";
+import Search from "./search/Search";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
   return (
